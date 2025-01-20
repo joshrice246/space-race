@@ -304,7 +304,7 @@ namespace space_race
 
         private void p2Label_Click(object sender, EventArgs e)
         {
-            //idd
+            
         }
 
         private void label5_Click(object sender, EventArgs e)

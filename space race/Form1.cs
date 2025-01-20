@@ -209,7 +209,7 @@ namespace space_race
             {
                 gameover.Text = $"GAME OVER\n player1 wins";
             }
-            if (player2Score == 5)
+            if (player2Score == 5) 
             {
                 gameover.Text = $"GAME OVER\n player2 wins";
 
